@@ -1,6 +1,4 @@
 # my-next-app
-NextJs 🌰例子
-Next 用起来
 
 This project was bootstrapped with [Create Next App](https://github.com/segmentio/create-next-app).
 
@@ -236,7 +234,3 @@ You can find more details about [`now` here](https://zeit.co/now).
 ## Something Missing?
 
 If you have ideas for how we could improve this readme or the project in general, [let us know](https://github.com/segmentio/create-next-app/issues) or [contribute some!](https://github.com/segmentio/create-next-app/edit/master/lib/templates/default/README.md)
->>>>>>> init nextjs
-=======
-来自本地的提交
->>>>>>> 5b45dbf1d5e3723a9f5ebbc1e3805e792112985c
